@@ -1,4 +1,4 @@
-## 재귀
+## recursion
 
 import sys
 n = int(sys.stdin.readline())
