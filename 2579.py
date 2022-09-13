@@ -1,4 +1,4 @@
-## DP
+## Dynamic Programming
 
 import sys
 a = int(sys.stdin.readline())
