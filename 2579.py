@@ -1,4 +1,5 @@
 ## DP
+
 import sys
 a = int(sys.stdin.readline())
 L = [0] * (a+3)
